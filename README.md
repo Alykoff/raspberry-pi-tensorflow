@@ -1,3 +1,8 @@
+```
+sudo pip install tensorflow-1.4.0-cp27-none-linux_armv7l.whl
+```
+
+
 See
 
 https://github.com/samjabrahams/tensorflow-on-raspberry-pi/blob/master/GUIDE.md
